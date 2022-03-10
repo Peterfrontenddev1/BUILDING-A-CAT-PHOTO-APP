@@ -22,3 +22,7 @@ BASICS IN HTML
           <li>laser pointers</li>
           <li>lasagna</li>
         </ul>
+<figure>
+          <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
+          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+        </figure>
