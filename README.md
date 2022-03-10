@@ -51,7 +51,7 @@ BASICS IN HTML
             <input id="lazy" type="checkbox" name="personality" value="lazy"> <label for="lazy">Lazy</label>
             <input id="energetic" type="checkbox" name="personality" value="energetic"> <label for="energetic">Energetic</label>
           </fieldset>
-     
+      <input type="text" name="catphotourl" placeholder="cat photo URL" required>
      
      
      
