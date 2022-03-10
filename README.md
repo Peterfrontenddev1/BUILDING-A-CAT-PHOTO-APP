@@ -61,7 +61,8 @@ BASICS IN HTML
         No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
       </p>
     </footer>
-     
+     </body>
+</html>
      
      
      
