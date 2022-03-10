@@ -36,7 +36,9 @@ BASICS IN HTML
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
           <figcaption>Cats <strong>hate</strong> other cats.</figcaption>  
         </figure>
-     
+     </section>
+      <section>
+        <h2>Cat Form</h2>
      
      
      
